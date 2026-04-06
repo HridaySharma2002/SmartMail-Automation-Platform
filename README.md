@@ -1,4 +1,4 @@
-# Email AI Assistant
+# SmartMail Automation Platform
 
 An AI-powered tool that generates context-aware email replies. It includes a Spring Boot backend, a React frontend, and a Google Chrome Extension.
 
